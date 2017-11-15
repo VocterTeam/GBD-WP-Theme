@@ -1,0 +1,27 @@
+/*
+Theme Name: GBD
+Author: romchyk16
+Author URI: https://www.weblancer.net/users/romchyk16/
+Description: The Best theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+#form_2 {
+  display: none;
+}
+
+#adress_2 {
+  display: none;
+}
+
+/*#map_2 {
+  position: absolute;
+  left: -100%;
+}*/
+
+.header__lang-icon {
+	width  : 18px !important;
+    height : 12px !important;
+}

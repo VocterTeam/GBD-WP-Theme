@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Exo2Black';
+  src: url("../fonts/Exo2Black/Exo2Black.eot");
+  src: url("../fonts/Exo2Black/Exo2Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Exo2Black/Exo2Black.woff") format("woff"), url("../fonts/Exo2Black/Exo2Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family:'Exo2Bold';src:url("../fonts/Exo2Bold/Exo2Bold.eot");src:url("../fonts/Exo2Bold/Exo2Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Exo2Bold/Exo2Bold.woff") format("woff"), url("../fonts/Exo2Bold/Exo2Bold.ttf") format("truetype");font-style:normal;font-weight:normal;
+}
+
+@font-face {
+  font-family:'Exo2Regular';src:url("../fonts/Exo2Regular/Exo2Regular.eot");src:url("../fonts/Exo2Regular/Exo2Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Exo2Regular/Exo2Regular.woff") format("woff"), url("../fonts/Exo2Regular/Exo2Regular.ttf") format("truetype");font-style:normal;font-weight:normal;
+}
+
+@font-face {
+  font-family:'Exo2Thin';src:url("../fonts/Exo2Thin/Exo2Thin.eot");src:url("../fonts/Exo2Thin/Exo2Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/Exo2Thin/Exo2Thin.woff") format("woff"), url("../fonts/Exo2Thin/Exo2Thin.ttf") format("truetype");font-style:normal;font-weight:normal;
+}
